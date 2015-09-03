@@ -6,7 +6,6 @@ module.exports = {
 	Section 	: require('./lib/components/Section'),
 	Row 		: require('./lib/components/Row'),
 	Column 		: require('./lib/components/Column'),
-	Typography	: require('./lib/components/Typography'),
 	Link		: require('./lib/components/Link'),
 	Code		: require('./lib/components/Code'),
 	Table		: require('./lib/components/Table'),
