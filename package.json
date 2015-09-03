@@ -21,7 +21,6 @@
     "react": "^0.14.0-beta1"
   },
   "dependencies": {
-    "enquire.js": "^2.1.1"
   },
   "browserify": {
     "transform": ["babelify"]
